@@ -9,7 +9,7 @@ M5StampS3をキーボードデバイスとして使用するため「切手サ�
 
 | ![Remote Keyboard](img/RemoteKeyboard.jpg) | ![M5StampS3](img/M5StampS3.jpg) |
 |:------------------------------------------:|:-------------------------------:|
-| Remote Keyboard Setup                      | M5StampS3 - Postage Stamp Size  |
+| リモートキーボードの起動画面               | 切手サイズの M5StampS3          |
 
 ## 必要なデバイス
 

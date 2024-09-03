@@ -8,7 +8,7 @@ The M5StampS3 is used as a keyboard device, achieving a 'postage stamp-sized ult
 
 | ![Remote Keyboard](img/RemoteKeyboard.jpg) | ![M5StampS3](img/M5StampS3.jpg) |
 |:------------------------------------------:|:-------------------------------:|
-| Remote Keyboard Setup                      | M5StampS3 - Postage Stamp Size  |
+| Remote Keyboard Startup Screen             | M5StampS3 - Postage Stamp Size  |
 
 
 ## Required Devices
