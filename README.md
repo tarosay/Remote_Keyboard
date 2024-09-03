@@ -4,7 +4,7 @@
 # Remote_Keyboard
 This is a program that connects via USB to a Raspberry Pi or PC and performs key input over the network.
 
-The M5StampS3, with its "postage stamp-sized ultra-compact keyboard" design, provides an exceptionally compact and portable solution, making it ideal for space-constrained setups or applications where a minimal footprint is essential.
+The M5StampS3 is used as a keyboard device, achieving a 'postage stamp-sized ultra-compact keyboard.' It provides an extremely compact and portable keyboard, making it ideal for setups with limited space or applications where a minimal footprint is required.
 
 | ![Remote Keyboard](img/RemoteKeyboard.jpg) | ![M5StampS3](img/M5StampS3.jpg) |
 |:------------------------------------------:|:-------------------------------:|

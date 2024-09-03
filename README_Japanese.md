@@ -1,10 +1,15 @@
 # Remote_Keyboard: Raspberry PiやPCにUSB接続し、ネットワーク経由でキー入力を行うプログラム
 
+
 ## Remote_Keyboardとは
 
 このプログラムは、Raspberry PiやPCにUSB接続し、ネットワーク経由でキー入力を行うものです。
 
-![Remote Keyboard](img/RemoteKeyboard.jpg)
+M5StampS3をキーボードデバイスとして使用するため「切手サイズの超小型キーボード」を実現しています。非常にコンパクトで持ち運びに便利なキーボードが提供されます。これにより、スペースが限られたセットアップや、最小限のスペースでの使用が求められるアプリケーションに最適です。
+
+| ![Remote Keyboard](img/RemoteKeyboard.jpg) | ![M5StampS3](img/M5StampS3.jpg) |
+|:------------------------------------------:|:-------------------------------:|
+| Remote Keyboard Setup                      | M5StampS3 - Postage Stamp Size  |
 
 ## 必要なデバイス
 
