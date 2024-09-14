@@ -33,6 +33,7 @@ Remote_Keyboardのビルドは、**Arduino IDE 2.3.2**を使用して行いま�
 ライブラリマネージャーを使用して、以下のライブラリをインストールしてください。
 
 - **M5Stack by M5Stack**: [GitHub リポジトリ](https://github.com/m5stack/m5stack)
+- **ESP32TinyUSB by Dariuz Krempa**: [GitHub Repository](https://github.com/chegewara/EspTinyUSB)
 - **AsyncTCP by dvarrel**: [GitHub リポジトリ](https://github.com/dvarrel/AsyncTCP)
 - **ESPAsyncWebServer by lacamera**: [GitHub リポジトリ](https://github.com/lacamera/ESPAsyncWebServer)
 - **Adafruit_NeoPixel by adafruit**: [GitHub リポジトリ](https://github.com/adafruit/Adafruit_NeoPixel)

@@ -33,6 +33,7 @@ The build for Remote_Keyboard was conducted using **Arduino IDE 2.3.2**. Follow 
 Make sure to install the following libraries using the Library Manager:
 
 - **M5Stack by M5Stack**: [GitHub Repository](https://github.com/m5stack/m5stack)
+- **ESP32TinyUSB by Dariuz Krempa**: [GitHub Repository](https://github.com/chegewara/EspTinyUSB)
 - **AsyncTCP by dvarrel**: [GitHub Repository](https://github.com/dvarrel/AsyncTCP)
 - **ESPAsyncWebServer by lacamera**: [GitHub Repository](https://github.com/lacamera/ESPAsyncWebServer)
 - **Adafruit_NeoPixel by adafruit**: [GitHub Repository](https://github.com/adafruit/Adafruit_NeoPixel)
